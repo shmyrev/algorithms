@@ -16,3 +16,11 @@
 
 ### sprint_01_final - Яндекс.Практикум, Python-разработчик: введение в алгоритмы. Финальные задачи:
 `https://contest.yandex.ru/contest/23390/problems/`
+
+
+### sprint_02 - Яндекс.Практикум, Python-разработчик: основные структуры данных:
+`https://contest.yandex.ru/contest/23758/problems/`
+
+
+### sprint_02_final - Яндекс.Практикум, Python-разработчик: основные структуры данных. Финальные задачи:
+`https://contest.yandex.ru/contest/23759/problems/`
