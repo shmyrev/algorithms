@@ -24,3 +24,10 @@
 
 ### sprint_02_final - Яндекс.Практикум, Python-разработчик: основные структуры данных. Финальные задачи:
 `https://contest.yandex.ru/contest/23759/problems/`
+
+
+### sprint_03 - Яндекс.Практикум, Python-разработчик: рекурсия и сортировки
+`https://contest.yandex.ru/contest/24734/problems/`
+
+### sprint_03_final - Яндекс.Практикум, Python-разработчик: рекурсия и сортировки. Финальные задачи
+`https://contest.yandex.ru/contest/24735/enter/`
