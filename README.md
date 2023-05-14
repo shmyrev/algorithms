@@ -31,3 +31,6 @@
 
 ### sprint_03_final - Яндекс.Практикум, Python-разработчик: рекурсия и сортировки. Финальные задачи
 `https://contest.yandex.ru/contest/24735/enter/`
+
+### sprint_04 - Яндекс.Практикум, Python-разработчик: хеш-функции
+`https://contest.yandex.ru/contest/26205/problems/`
