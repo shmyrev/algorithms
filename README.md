@@ -33,4 +33,7 @@
 `https://contest.yandex.ru/contest/24735/enter/`
 
 ### sprint_04 - Яндекс.Практикум, Python-разработчик: хеш-функции
-`https://contest.yandex.ru/contest/26205/problems/`
+`https://contest.yandex.ru/contest/26205/problems/`  
+
+### sprint_05 - Яндекс.Практикум, Python-разработчик: деревья  
+`https://contest.yandex.ru/contest/26207/problems/`
